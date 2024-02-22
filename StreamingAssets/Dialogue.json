@@ -1,0 +1,21 @@
+[
+    {
+      "location": "RAC",
+      "dialogueLines": [
+        "Hi! I’m Attila The Duck, the proud mascot of Stevens Institute of Technology for over 100 years!",
+        "We will walk around the campus and cover key buildings that will introduce you to what we have here at Stevens.",
+        " Ready to explore the campus with me today?"
+      ],
+      "buttons": [
+        {
+          "text": "ImReady",
+          "action": "startTour"
+        },
+        {
+          "text": "SomeOtherTime",
+          "action": "postponeTour"
+        }
+      ]
+    }
+
+  ]
